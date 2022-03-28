@@ -10,6 +10,6 @@ Save it as hello.py or something similar. Make sure to not call your application
 
 To run the application, use the flask command or python -m flask. Before you can do that you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable:
 
-> set FLASK_APP=hello
-> flask run
+set FLASK_APP=hello
+flask run
  * Running on http://127.0.0.1:5000/
